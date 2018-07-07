@@ -1,16 +1,7 @@
-<<<<<<< HEAD
 # myownrepo
 # My First Edit
-#Puneet Brar
-# My Second Edit
-# My Third Edit
-=======
-# myownrepo
-
-# My First Edit
-
+Puneet Brar was here.
 Joonsuk was here.
+Carolyn was here.
 # My Second Edit
 # My Third Edit
-# My Third Edit # Carolyn
->>>>>>> master
